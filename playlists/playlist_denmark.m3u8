@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-name="DR1 Ⓖ" tvg-logo="https://i.imgur.com/wEq8UnG.png" tvg-id="DR1.dk" tvg-chno="1" tvg-country="DK" group-title="Denmark",DR1 Ⓖ
 https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/4.m3u8
 #EXTINF:-1 tvg-name="DR2 Ⓖ" tvg-logo="https://i.imgur.com/b79UKYN.png" tvg-id="DR2.dk" tvg-chno="3" tvg-country="DK" group-title="Denmark",DR2 Ⓖ
-https://drlive02texthls.akamaized.net/hls/live/2014188/drlive02text/master.m3u8
+https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/4.m3u8
 #EXTINF:-1 tvg-name="DR Ramasjang Ⓖ" tvg-logo="https://i.imgur.com/YD0z2mN.png" tvg-id="DRRamasjang.dk" tvg-chno="4" tvg-country="DK" group-title="Denmark",DR Ramasjang Ⓖ
-https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8
+https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/4.m3u8
 #EXTINF:-1 tvg-name="Folketinget TV" tvg-logo="https://i.imgur.com/RqQDUzX.png" tvg-id="TVfromtheDanishParliament.dk" tvg-chno="37" tvg-country="DK" group-title="Denmark",Folketinget TV
 https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-name="TV Syd+" tvg-logo="https://i.imgur.com/k2jf591.png" tvg-id="TVSYD.dk" tvg-chno="1" tvg-country="DK" group-title="Denmark",TV Syd+
